@@ -1,4 +1,4 @@
-# embraer-projeto-analise-dados
+# Embraer Projeto de Análise Dados
 
 Projeto apoiado pela Embraer de Análise de Dados utilizando
 dados fictícios
@@ -6,11 +6,14 @@ dados fictícios
 Algumas premissas foram omitidas por motivos de
 confidencialidade.
 
-Ferramentas Empregadas: Google Cloud Platform (GCP): 
-Para armazenamento seguro de informações com Google Storage e desenvolvimento de um
-banco de dados relacional no BigQuery. IAM (Identity and Access Management):
-
+Ferramentas Empregadas: Google Cloud Platform (GCP) 
 <img src="./imagem/Backet.png" alt="print do BigQuery">
+
+Para armazenamento seguro de informações com Google Storage foi desenvolvido um
+banco de dados relacional no BigQuery. IAM (Identity and Access Management)
+<img src="./imagem/MER.png" alt="print do MER">
+
+<img src="./imagem/Scripts_tabelas.png" alt="print dos scripts das tabelas">
 
 <img src="./imagem/BigQuery.png" alt="print do BigQuery">
 
